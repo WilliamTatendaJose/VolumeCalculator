@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VolumeCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VolumeCalculator_jar</output-path>
+    <root id="archive" name="VolumeCalculator.jar">
+      <element id="module-output" name="VolumeCalculator" />
+    </root>
+  </artifact>
+</component>
